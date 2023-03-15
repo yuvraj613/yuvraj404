@@ -1,0 +1,13 @@
+1. WHY DO WE START LEARNING A PROGRAMMING LANGUAGE WITH 'HELLO WORLD' ?
+ANS :As a beginner , we should must know the basics of any programming languages wheather it is c++ , python or java or html itslef. Through writing or
+we can say printing 'hello world' , we understand the beginning part of a any programming languages like the starting part , headinf part that plays
+very important role afterwards. 
+2. WHAT IS THE USE OF COMMENTS IN HTML AND HOW DO WE USE IT IN HTML ?
+ANS :Comments are codes that are not futher shown in the output or in case of html in browser. comments are sued for better understandment of the code 
+for someone who is oberserving the source code . to use comment in html , for windows user use ctrl + forward slash button.
+3. WHAT ARE ELEMENTS , TAGS AND ATTRIBUTES AND ALSO DIFFERENTIATE BETWEEM THEM.
+ANS :Elments are the whole part which consists opening tag , content and closing part. for eg. <title> class 1 <\title> here the whole part is element whereas
+<title> and <\title> are tags here. Attributes are so called functions inside a tag like src and alt used in <img> tag.
+4. WHAT ARE HTML ENTITIES ?
+AMS :Html Entites are used to print the reserved key words in html. symbols like < and further spaces.
+for example $gt; for > etc.
